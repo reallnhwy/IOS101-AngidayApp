@@ -1,4 +1,4 @@
-# Angiday?
+# Angiday? App
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
 
 ### Description
 
-A recipe and cooking app that simplifies meal planning and preparation. The app also save place for dine out. Users can explore a vast collection of recipes,and plan their meals for the week.
+Angiday? is a recipe and cooking app that simplifies meal planning and preparation. The app also save place for dine out. Users can explore a vast collection of recipes,and plan their meals for the week.
 
 ### App Evaluation
 
@@ -75,20 +75,9 @@ A recipe and cooking app that simplifies meal planning and preparation. The app 
 
 <img src="https://imgur.com/otaYZ5J.jpg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
 ## Schema 
 
 [This section will be completed in Unit 9]
 
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+### Sprint 1: Complete two first require feature (set up project)
+### Sprint 2: Complete the last two require feature + favourite feature. 

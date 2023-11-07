@@ -75,9 +75,9 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 <img src="https://imgur.com/otaYZ5J.jpg" width=600>
 
-## Schema 
+## Demo 
 
-[This section will be completed in Unit 9]
+<img src="https://imgur.com/ja6dA6z.gif" width=300>
 
 ### Sprint 1: Complete two first require feature (set up project)
 ### Sprint 2: Complete the last two require feature + favourite feature. 

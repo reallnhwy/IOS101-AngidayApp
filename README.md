@@ -33,10 +33,9 @@ A recipe and cooking app that simplifies meal planning and preparation. The app 
 * Add new recipe.
 * Show saved restaurants.
 * Add new restaurant.
-* Add item to favourite 
 
 **Optional Nice-to-have Stories**
-
+* Add item to favourite 
 * Recipe or Place to eat randomnizer.
 * Grocerises list. 
 * Real time map to search for location of restaurant.
@@ -58,7 +57,7 @@ A recipe and cooking app that simplifies meal planning and preparation. The app 
 
 * Recipes and Restaurants feed (Home)
 * Create new recipe or new restaurant (Add)
-* Favourtie 
+* Favourite 
 * Randomizer
 
 **Flow Navigation** (Screen to Screen)

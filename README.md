@@ -66,7 +66,7 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 * Detail Screen
 - [x] Creation Screen
 * Home Screen
-- [] Favourite
+- [ ] Favourite
 * Detail Screen
 - [ ] Randomizer
 * Detail Screen

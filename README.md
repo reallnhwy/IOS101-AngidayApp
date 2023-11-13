@@ -81,11 +81,12 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 ### Sprint 1: Complete two first require feature Demo
 
-<img src="https://imgur.com/cCqUicK.gif" width = 300>
+https://www.loom.com/share/90fe813522e441d786e974713bea91ff?sid=7fb332fb-9c05-49df-bb3b-c0a036ea2259
 
 ### Sprint 2: Complete the last two require feature + favourite feature. 
-### Reflection for Progress 1
+### Reflection for 1st Progress 
 - [x] logo
     <img src="https://imgur.com/wvVrNOg.jpg" width=600>
 - [x] flow navigator as demo
-### Reflection for Progress 1
+### Reflection for Sprint 1 
+I've tried to learn by myself on how to use SwiftUI instead of storyboard for this project. Overall, I've quite struggled try to get used to the syntax and how to really follow the wireframe image as I don't know if I can use both method at the same time. Eventhough, using just SwiftUI show the preview of the view, I found it's a bit tough to imagine how the view link and to use navigation view. I also find it harder to find material to tackle problem on SwiftUI, so there are some details such as navigation tilte I still couldn't format it the way I wanted the app aesthetic to be. 

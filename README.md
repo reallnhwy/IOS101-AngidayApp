@@ -29,9 +29,9 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 **Required Must-have Stories**
 
-* Show saved recipe.
+- [x] Show saved recipe.
+- [x] Show saved restaurants.
 * Add new recipe.
-* Show saved restaurants.
 * Add new restaurant.
 
 **Optional Nice-to-have Stories**
@@ -41,10 +41,10 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 * Real time map to search for location of restaurant.
 
 ### 2. Screen Archetypes
-- [ ]  Stream Screen
+- [x]  Stream Screen
 * Show saved restaurants, recipes on main story board
 * Show favourite items
-- [ ] Detail Screen
+- [x] Detail Screen
 * Show details of a saved recipe including: ingredients, instructions, description, category
 * Show details of a saved restaurant including: location, price, description, category
 - [ ] Creation Screen
@@ -62,11 +62,11 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Home Screen
+- [x] Home Screen
 * Detail Screen
-- [ ] Creation Screen
+- [x] Creation Screen
 * Home Screen
-- [ ] Favourite
+- [] Favourite
 * Detail Screen
 - [ ] Randomizer
 * Detail Screen
@@ -79,9 +79,13 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 <img src="https://imgur.com/ja6dA6z.gif" width=300>
 
-### Sprint 1: Complete two first require feature (set up project)
+### Sprint 1: Complete two first require feature Demo
+
+<img src="https://imgur.com/slQMllq.gif" width = 300>
+
 ### Sprint 2: Complete the last two require feature + favourite feature. 
-### Progress
+### Reflection for Progress 1
 - [x] logo
     <img src="https://imgur.com/wvVrNOg.jpg" width=600>
 - [x] flow navigator as demo
+### Reflection for Progress 1

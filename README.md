@@ -31,8 +31,8 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 - [x] Show saved recipe.
 - [x] Show saved restaurants.
-* Add new recipe.
-* Add new restaurant.
+- [x] Add new recipe.
+- [x] Add new restaurant.
 
 **Optional Nice-to-have Stories**
 * Add item to favourite 
@@ -47,7 +47,7 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 - [x] Detail Screen
 * Show details of a saved recipe including: ingredients, instructions, description, category
 * Show details of a saved restaurant including: location, price, description, category
-- [ ] Creation Screen
+- [x] Creation Screen
 * Customer enter form for adding new recipe 
 * Customer enter form for adding new restaurant 
 
@@ -84,10 +84,16 @@ Angiday? is a recipe and cooking app that simplifies meal planning and preparati
 
 https://www.loom.com/share/90fe813522e441d786e974713bea91ff?sid=7fb332fb-9c05-49df-bb3b-c0a036ea2259
 
-### Sprint 2: Complete the last two require feature + favourite feature. 
+### Sprint 2: 
+- [x] Complete the last two require feature
+
+https://www.loom.com/share/b4d338159b4f4240ac6006cc420eb46d
+
 ### Reflection for 1st Progress 
 - [x] logo
     <img src="https://imgur.com/wvVrNOg.jpg" width=600>
 - [x] flow navigator as demo
 ### Reflection for Sprint 1 
 I've tried to learn by myself on how to use SwiftUI instead of storyboard for this project. Overall, I've quite struggled try to get used to the syntax and how to really follow the wireframe image as I don't know if I can use both method at the same time. Eventhough, using just SwiftUI show the preview of the view, I found it's a bit tough to imagine how the view link and to use navigation view. I also find it harder to find material to tackle problem on SwiftUI, so there are some details such as navigation tilte I still couldn't format it the way I wanted the app aesthetic to be. 
+### Reflection for Sprint 2
+So, tackling the user input form has been a bit tricky, figuring out the ins and outs of toolbar items and navigation links. Right now, adding a new recipe isn't as smooth as I'd like it to be on the loading page. No worries, though—I'm totally aware of it and planning to jazz it up for a better user experience soon. Also, just so you know, the newly whipped-up recipes aren't hitting any networks yet. I'm on it, though—trying to crack the code with my limited time. And hey, features like saving to favorites? Yep, they're on my to-do list too. Stay tuned for more cool stuff! 
